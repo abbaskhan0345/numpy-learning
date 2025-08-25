@@ -1,3 +1,4 @@
+```markdown
 # NumPy Learning Repository  
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)  
@@ -17,6 +18,7 @@ Whether you’re new to NumPy or refreshing your skills, this repo will guide yo
 
 ## 📂 Repository Structure  
 
+```
 
 numpy-learning/
 ├─ notebooks/
@@ -38,6 +40,7 @@ numpy-learning/
 ├─ README.md
 └─ requirements.txt
 
+````
 
 ---
 
@@ -47,7 +50,7 @@ numpy-learning/
    ```bash
    git clone https://github.com/your-username/numpy-learning.git
    cd numpy-learning
-``
+````
 
 2. Install requirements:
 
@@ -122,3 +125,7 @@ This repository is licensed under the **MIT License**.
 
 ---
 
+```
+
+Would you like me to also **add shields for “License” and “PRs Welcome”** in the badges section (for an even more open-source vibe)?
+```

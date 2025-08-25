@@ -38,7 +38,6 @@ numpy-learning/
 ├─ README.md
 └─ requirements.txt
 
-````
 
 ---
 
@@ -48,7 +47,7 @@ numpy-learning/
    ```bash
    git clone https://github.com/your-username/numpy-learning.git
    cd numpy-learning
-````
+```
 
 2. Install requirements:
 
